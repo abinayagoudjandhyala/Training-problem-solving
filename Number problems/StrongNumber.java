@@ -5,7 +5,7 @@ public class StrongNumber {
         for (int i = 1; i <= n; i++) {
             fact *= i;
         }
-        return fact;
+        return fact; 
     }
 
     static boolean isStrong(int num) {
