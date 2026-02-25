@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+
 public class RearrangePositiveNegative {
 
     public static int[] rearrange(int[] arr) {
